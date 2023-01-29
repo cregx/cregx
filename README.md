@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I always work on some cool stuff in my free time (okay, of course, it depends on what you consider cool. :wink:),
+- :fire: I am always looking for something new to learn,
+- :alarm_clock: like most of us, I don't have much time,
+- 🌱 currently, i.e. since 2021, I am experimenting with Apple Playgrounds
+
+
 <!--
 **cregx/cregx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
